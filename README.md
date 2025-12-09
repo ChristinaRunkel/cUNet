@@ -38,8 +38,8 @@ cUNet/
    ```
 2. Install dependencies (Python 3.8+ recommended):
    ```bash
-  conda env create -f cunet.yml
-  conda activate cunet
+   conda env create -f cunet.yml
+   conda activate cunet
    ```
    Or install main libraries manually:
    - torch, torchvision
