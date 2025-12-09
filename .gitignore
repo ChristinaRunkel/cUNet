@@ -1,0 +1,12 @@
+*__pycache__/
+/.vscode
+*.ipynb
+events.*
+*.out
+*.sh
+*.png
+*.pt
+*.txt
+
+visualization/*
+csv/*
